@@ -279,7 +279,7 @@ This project is proprietary software owned by Matthew Stdenis. All rights reserv
 
 **Copyright © 2025 Matthew Stdenis**
 
-This software is provided for viewing and reference purposes only. Any use beyond viewing requires explicit written permission from the copyright owner. See the [LICENSE](https://github.com/6r1zzlyB/Linux_Setup/blob/main/LICENSE) file for complete terms and conditions.
+This software is provided for viewing and reference purposes only. Any use beyond viewing requires explicit written permission from the copyright owner. See the [LICENSE](https://github.com/6r1zzlyB/Linux_Setup/blob/main/LICENSE.md) file for complete terms and conditions.
 
 **UNAUTHORIZED USE IS STRICTLY PROHIBITED AND MAY RESULT IN LEGAL ACTION.**
 
