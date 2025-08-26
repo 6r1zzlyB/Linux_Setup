@@ -111,7 +111,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 **License:** All Rights Reserved - See [LICENSE](./LICENSE) file for details.
 
-**Author:** Matt S  
+**Author:** Matthew Stdenis
 **Repository:** Linux_Setup (Private)
 
 ---
