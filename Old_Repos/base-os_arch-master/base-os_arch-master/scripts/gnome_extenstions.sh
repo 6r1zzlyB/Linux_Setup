@@ -1,0 +1,20 @@
+sudo pacman -S chrome-gnome-shell
+xdg-open https://extensions.gnome.org/extension/1010/archlinux-updates-indicator/
+xdg-open https://extensions.gnome.org/extension/1031/topicons/
+xdg-open https://extensions.gnome.org/extension/1075/center-area-horizontal-spacing/
+xdg-open https://extensions.gnome.org/extension/1213/dynamic-battery/
+xdg-open https://extensions.gnome.org/extension/1217/appfolders-manager/
+xdg-open https://extensions.gnome.org/extension/1305/more-columns-in-applications-view/
+xdg-open https://extensions.gnome.org/extension/16/auto-move-windows/
+xdg-open https://extensions.gnome.org/extension/19/user-themes/
+xdg-open https://extensions.gnome.org/extension/2/move-clock/
+xdg-open https://extensions.gnome.org/extension/307/dash-to-dock/
+xdg-open https://extensions.gnome.org/extension/351/icon-hider/
+xdg-open https://extensions.gnome.org/extension/355/status-area-horizontal-spacing/
+xdg-open https://extensions.gnome.org/extension/517/caffeine/
+xdg-open https://extensions.gnome.org/extension/595/autohide-battery/
+xdg-open https://extensions.gnome.org/extension/708/panel-osd/
+xdg-open https://extensions.gnome.org/extension/744/hide-activities-button/
+xdg-open https://extensions.gnome.org/extension/800/remove-dropdown-arrows/
+xdg-open https://extensions.gnome.org/extension/905/refresh-wifi-connections/
+xdg-open https://extensions.gnome.org/extension/97/coverflow-alt-tab/

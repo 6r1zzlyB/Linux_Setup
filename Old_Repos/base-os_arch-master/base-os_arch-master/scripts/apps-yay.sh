@@ -1,0 +1,10 @@
+yay -S appeditor-git
+yay -S battop
+yay -S crossover
+yay -S discord
+yay -S dropbox
+yay -S google-chrome
+yay -S timeshift
+yay -S timeshift-autosnap
+yay -S vmware-workstation
+yay -S gnome-appfolders-manager

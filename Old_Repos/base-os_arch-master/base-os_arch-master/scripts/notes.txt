@@ -1,0 +1,32 @@
+## List Package Dependentcies ##
+
+	pactree <PACKAGE>
+
+## Remove Apps ##
+
+	sudo pacman -R <PACKAGE>
+
+	sudo pacman -Rcns <PACKAGE>
+
+	sudo pacman -Rcnsd <PACKAGE>
+
+## List Apps ##
+
+	pacman -Q
+
+	pacman -Qe
+
+	pacman -Q | grep -v <PACKAGE>
+
+	pacman -Q > pacman_Q.txt
+
+	pacman -Qe | grep -v <PACKAGE>
+
+	pacman -Qe > pacman_Qe.txt
+
+## Error Check ##
+
+	sudo systemctl --failed
+
+	sudo journalctl -p 3 -xb
+

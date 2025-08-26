@@ -1,0 +1,15 @@
+xdg-open https://extensions.gnome.org/extension/1128/hide-activities-button/
+xdg-open https://extensions.gnome.org/extension/1213/dynamic-battery/
+xdg-open https://extensions.gnome.org/extension/1305/more-columns-in-applications-view/
+xdg-open https://extensions.gnome.org/extension/18/native-window-placement/
+xdg-open https://extensions.gnome.org/extension/19/user-themes/
+xdg-open https://extensions.gnome.org/extension/307/dash-to-dock/
+xdg-open https://extensions.gnome.org/extension/355/status-area-horizontal-spacing/
+xdg-open https://extensions.gnome.org/extension/427/workspaces-to-dock/
+xdg-open https://extensions.gnome.org/extension/48/trash/
+xdg-open https://extensions.gnome.org/extension/1031/topicons/
+xdg-open https://extensions.gnome.org/extension/7/removable-drive-menu/
+xdg-open https://extensions.gnome.org/extension/904/disconnect-wifi/
+xdg-open https://extensions.gnome.org/extension/905/refresh-wifi-connections/
+xdg-open https://extensions.gnome.org/extension/941/show-ip/
+xdg-open https://extensions.gnome.org/extension/97/coverflow-alt-tab/
