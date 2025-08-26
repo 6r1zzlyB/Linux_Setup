@@ -1,4 +1,0 @@
-# base-os_debian
-These are my base debian linux setup scripts.
-
-###### Note: This is for my own personal use.  I take no responsibility for the applications and/or tools found within this script.
