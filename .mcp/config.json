@@ -1,0 +1,35 @@
+{
+  "repository": {
+    "name": "Linux_Setup",
+    "path": "C:\\Users\\docfa\\X_Repos\\Linux_Setup",
+    "type": "dotnet"
+  },
+  "mcp": {
+    "memory": {
+      "context_file": ".mcp/memory.json",
+      "max_entries": 1000
+    },
+    "filesystem": {
+      "root": "C:\\Users\\docfa\\X_Repos\\Linux_Setup",
+      "exclude_patterns": [
+        "node_modules/**",
+        ".git/**",
+        "*.log",
+        ".env*",
+        "__pycache__/**",
+        "*.pyc",
+        ".DS_Store",
+        "Thumbs.db"
+      ]
+    },
+    "sequential_thinking": {
+      "enabled": true,
+      "complexity_threshold": "medium"
+    }
+  },
+  "project_context": {
+    "description": "Repository: Linux_Setup",
+    "main_technologies": [],
+    "structure_analyzed": false
+  }
+}

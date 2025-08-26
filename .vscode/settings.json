@@ -1,0 +1,14 @@
+{
+  "claude.mcpServers": "global",
+  "claude.contextFiles": [
+    ".mcp/config.json"
+  ],
+  "files.exclude": {
+    "**/.mcp/memory.json": true,
+    "**/.mcp/context_cache.json": true,
+    "**/.mcp/session_*.json": true
+  },
+  "files.watcherExclude": {
+    "**/.mcp/**": true
+  }
+}

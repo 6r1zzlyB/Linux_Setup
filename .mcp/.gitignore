@@ -1,0 +1,5 @@
+# MCP Server local files
+memory.json
+context_cache.json
+session_*.json
+*.log
