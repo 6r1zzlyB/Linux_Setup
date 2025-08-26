@@ -1,12 +1,18 @@
-# Linux Server First Run Setup Script
+# Linux_Setup
 
-[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](https://github.com/6r1zzlyB/Linux_Setup/blob/main/LICENSE)
-[![Shell Script](https://img.shields.io/badge/Shell-Bash-green.svg)](https://www.gnu.org/software/bash/)
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](./LICENSE)
+[![Author](https://img.shields.io/badge/Author-Matthew%20Stdenis-blue.svg)](mailto:matthew.h.stdenis@gmail.com)
+[![Status](https://img.shields.io/badge/Status-Private%20Repository-orange.svg)](https://github.com/6r1zzlyB/Linux_Setup)
+[![Technology](https://img.shields.io/badge/Shell-Bash-green.svg)](https://www.gnu.org/software/bash/)
 [![Platform](https://img.shields.io/badge/Platform-Debian%20%7C%20Ubuntu-blue.svg)](https://www.debian.org/)
 
 A comprehensive automated setup script for Debian/Ubuntu-based Linux servers. This script handles the complete initial configuration of a fresh server installation, from essential package installation to user management and optional services.
 
-**Copyright © 2025 Matthew Stdenis. All rights reserved.**
+**Author:** Matthew Stdenis
+**Created:** 2025
+**License:** All Rights Reserved (see [LICENSE](./LICENSE))
+
+**IMPORTANT:** This repository is confidential and intended for personal use only. It is strictly forbidden to share any part of this repository with any third party without written consent from Matthew Stdenis.
 
 ## 🚨 Important Legal Notice
 
@@ -279,7 +285,7 @@ This project is proprietary software owned by Matthew Stdenis. All rights reserv
 
 **Copyright © 2025 Matthew Stdenis**
 
-This software is provided for viewing and reference purposes only. Any use beyond viewing requires explicit written permission from the copyright owner. See the [LICENSE](https://github.com/6r1zzlyB/Linux_Setup/blob/main/LICENSE.md) file for complete terms and conditions.
+This software is provided for viewing and reference purposes only. Any use beyond viewing requires explicit written permission from the copyright owner. See the [LICENSE](./LICENSE) file for complete terms and conditions.
 
 **UNAUTHORIZED USE IS STRICTLY PROHIBITED AND MAY RESULT IN LEGAL ACTION.**
 
